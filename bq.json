@@ -1,0 +1,64 @@
+{
+    "BigQuery Schema": [
+    {
+      "name": "bathrooms",
+      "type": "FLOAT"
+    },
+    {
+      "name": "bedrooms",
+      "type": "FLOAT"
+    },
+    {
+      "name": "city",
+      "type": "STRING"
+    },
+    {
+      "name": "country",
+      "type": "STRING"
+    },
+    {
+      "name": "homeStatus",
+      "type": "STRING"
+    },
+    {
+      "name": "homeType",
+      "type": "STRING"
+    },
+    {
+      "name": "latitude",
+      "type": "FLOAT"
+    },
+    {
+      "name": "longitude",
+      "type": "FLOAT"
+    },
+    {
+      "name": "livingArea",
+      "type": "FLOAT"
+    },
+    {
+      "name": "lotAreaUnit",
+      "type": "STRING"
+    },
+    {
+      "name": "lotAreaValue",
+      "type": "FLOAT"
+    },
+    {
+      "name": "price",
+      "type": "FLOAT"
+    },
+    {
+      "name": "rentZestimate",
+      "type": "FLOAT"
+    },
+    {
+      "name": "state",
+      "type": "STRING"
+    },
+    {
+      "name": "zipcode",
+      "type": "INTEGER"
+    }
+    ]
+   }
